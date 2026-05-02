@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Fayas Banner" />
+  <img src="assets/banner.png" alt="Fayas Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Fayas</h1>

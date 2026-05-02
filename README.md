@@ -24,8 +24,8 @@
 🌏  Guild    : Indonesia
 ⚡  Status   : Actively Coding
 🎯  Class    : Full-Stack Developer
-🎮  Hobby    : Gaming + Music + Building
-☕  Fuel     : Coffee & Lo-fi beats
+🎮  Hobby    : Gaming + Music + Building + Drawing
+☕  Fuel     : Coffee & tea
 📖  Quest    : Still leveling up, always
 ```
 
@@ -66,8 +66,6 @@ VS Code     ████████████████████  99%  �
 
 </div>
 
----
-
 <div align="center">
 
 | ⚔️ Quest | 🗺️ Status | 💎 Reward |
@@ -80,8 +78,6 @@ VS Code     ████████████████████  99%  �
 > `▶` *Ship it. Break it. Fix it. Repeat.* 🔁
 
 </div>
-
----
 
 <div align="center">
 
@@ -96,23 +92,17 @@ VS Code     ████████████████████  99%  �
 
 </div>
 
----
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fyasazrma&bg_color=0D0D1A&color=A855F7&line=6D28D9&point=C4B5FD&area=true&area_color=4F46E5&hide_border=false&border_color=6D28D9&radius=6)](https://github.com/fyasazrma)
 
 </div>
 
----
-
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=fyasazrma&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/fyasazrma)
 
 </div>
-
----
 
 <div align="center">
 
@@ -123,8 +113,6 @@ VS Code     ████████████████████  99%  �
 </picture>
 
 </div>
-
----
 
 <!-- FOOTER -->
 <div align="center">

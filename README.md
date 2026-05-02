@@ -20,7 +20,7 @@
 
 ---
 
-## 🧑‍💻 Player Profile
+
 
 ```yaml
 Name: Fayasqii Azhar Mauludin
@@ -36,7 +36,7 @@ Hobby: Gaming · Drawing · Music
 
 ---
 
-## ⚔️ Skill Inventory
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,postgresql,git,github,vscode" />
@@ -58,7 +58,7 @@ Hobby: Gaming · Drawing · Music
 
 ---
 
-## 📊 Battle Records
+
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fyasazrma&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12" />
@@ -93,7 +93,7 @@ Hobby: Gaming · Drawing · Music
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
   <picture>
@@ -122,7 +122,7 @@ Hobby: Gaming · Drawing · Music
 
 ---
 
-## 📫 Connect With Me
+
 
 <p align="center">
   <a href="https://github.com/fyasazrma">

@@ -38,7 +38,6 @@
 <!-- SKILL TREE + GIF -->
 <img align="left" width="230" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-## ⚔️ Skill Tree
 
 ```
 TypeScript  ████████████████░░░░  80%  ★★★★☆
@@ -53,8 +52,6 @@ VS Code     ████████████████████  99%  �
 <br clear="left"/>
 
 ---
-
-## 🛡️ Equipped Gear
 
 <div align="center">
 
@@ -71,8 +68,6 @@ VS Code     ████████████████████  99%  �
 
 ---
 
-## 📜 Quest Log
-
 <div align="center">
 
 | ⚔️ Quest | 🗺️ Status | 💎 Reward |
@@ -87,8 +82,6 @@ VS Code     ████████████████████  99%  �
 </div>
 
 ---
-
-## 📊 Battle Records
 
 <div align="center">
 
@@ -105,8 +98,6 @@ VS Code     ████████████████████  99%  �
 
 ---
 
-## 📈 Battle Map
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fyasazrma&bg_color=0D0D1A&color=A855F7&line=6D28D9&point=C4B5FD&area=true&area_color=4F46E5&hide_border=false&border_color=6D28D9&radius=6)](https://github.com/fyasazrma)
@@ -115,8 +106,6 @@ VS Code     ████████████████████  99%  �
 
 ---
 
-## 🏆 Achievements
-
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=fyasazrma&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/fyasazrma)
@@ -124,8 +113,6 @@ VS Code     ████████████████████  99%  �
 </div>
 
 ---
-
-## 🐍 Contribution Dungeon
 
 <div align="center">
 

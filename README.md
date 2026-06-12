@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Fyas Azrma ✨
+# Hello, I'm Fayas ✨
 
 <img src="./assets/Banner 1.png" width="100%">
 

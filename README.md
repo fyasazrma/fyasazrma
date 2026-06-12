@@ -50,56 +50,15 @@
 
 <br>
 
-## 🐱 About Me
-
-- 🎓 Informatics Student
-- 💻 Learning Web Development
-- ☕ Coffee Addict
-- 🐾 Cat Lover
-- 🌱 Keep Learning, Keep Growing
-
-<br>
-
-## 🚀 Tech Stack
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,mongodb,git,github,vscode" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fyasazrma/fyasazrma/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fyasazrma/fyasazrma/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/fyasazrma/fyasazrma/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fyasazrma&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fyasazrma&layout=compact&theme=tokyonight" />
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fyasazrma&theme=tokyonight"/>
-
-</p>
-
-<br>
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/fyasazrma/fyasazrma/output/github-contribution-grid-snake.svg">
-
-</p>
-
-<br>
-
-## 🌐 Connect With Me
 
 <p align="center">
 

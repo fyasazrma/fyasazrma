@@ -82,8 +82,6 @@
 
 <br>
 
-## 🔥 Contribution Streak
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fyasazrma&theme=tokyonight"/>
@@ -92,7 +90,6 @@
 
 <br>
 
-## 🐍 Contribution Snake
 
 <p align="center">
 
